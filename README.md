@@ -35,7 +35,7 @@ Create recommendation systems that provide WBSFLIX users with relevant content t
 
 ### Dataset
 
-The dataset contains around 9742 films. To find out more read: README.txt
+The dataset contains around 9742 films. To find out more read: [README.txt](https://github.com/HeleneRebelo/Recommender-Systems/blob/main/data/README.txt)
 
 ## Methodology
 
