@@ -3,6 +3,8 @@
 Recommender systems, or “recommenders” are software systems designed to filter vast volumes and offer personalized recommendations of items or content, based on users' interests and preferences. 
 There are several types of recommenders as can be seen in the diagram below:
 
+![Types of recommenders](https://github.com/HeleneRebelo/Recommender-Systems/blob/main/docs/recommender_system.png)
+
 Here we explore:
 
 - **Popularity Rankings or popularity-based**: These are non-personalized recommendations based on popularity rankings, such as best-selling items or most-watched movies. These simplified recommendations may not necessarily reflect quality, as the best-selling item may not be the highest-rated. Additionally, rankings can vary over time, making it important to note recent trends.
@@ -45,7 +47,9 @@ The dataset contains around 9742 films. To find out more read: [README.txt](http
 4. For the item-based recommender, we applied Pearson's correlation and cosine similarity, the second proved to be more robust and we applied it to our model
 5. We saved the three resulting recommendation datasets and exported them to our streamlit app which you can see below and in the presentation.
 
-   ![WBSFLIX](https://media.discordapp.net/attachments/1211676968958042163/1212679644294160384/movie_recommender.JPG?ex=6617a0ed&is=66052bed&hm=f60171e8cd6bff089f581463cda01a691bcf0654c24d453bf1fc688be0d18882&=&format=webp&width=1920&height=806.png)
+   ![WBSFLIX](https://github.com/HeleneRebelo/Recommender-Systems/blob/main/docs/wbsflix_image.png)
+   
+
 
 
 
