@@ -1,0 +1,51 @@
+movieId,title,genres,forest_gump_cosine,users_who_rated_many_books,imdbId,tmdbId
+318,"Shawshank Redemption, The (1994)",Crime|Drama,0.7129930616208374,231,111161,278.0
+480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,0.6882585716184463,198,107290,329.0
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,0.685543672631291,230,110912,680.0
+110,Braveheart (1995),Action|Drama|War,0.6430899096567652,183,112573,197.0
+593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,0.6394625289111044,199,102926,274.0
+150,Apollo 13 (1995),Adventure|Drama|IMAX,0.6275585035702106,165,112384,568.0
+2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,0.6099347988177692,194,133093,603.0
+500,Mrs. Doubtfire (1993),Comedy|Drama,0.60798253418816,135,107614,788.0
+527,Schindler's List (1993),Drama|War,0.6020717257722956,164,108052,424.0
+589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,0.6008861125749384,170,103064,280.0
+364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX,0.586446060166194,144,110357,8587.0
+47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,0.5863695441709182,160,114369,807.0
+457,"Fugitive, The (1993)",Thriller,0.5778062616234051,149,106977,5503.0
+377,Speed (1994),Action|Romance|Thriller,0.5761598605717319,145,111257,1637.0
+597,Pretty Woman (1990),Comedy|Romance,0.5700128772051664,125,100405,114.0
+2959,Fight Club (1999),Action|Crime|Drama|Thriller,0.5691871597958585,160,137523,550.0
+590,Dances with Wolves (1990),Adventure|Drama|Western,0.5659619985877802,134,99348,581.0
+50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,0.5566864709857277,152,114814,629.0
+588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,0.5565117738423468,141,103639,812.0
+2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery,0.5530656752823133,140,167404,745.0
+1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,0.5530009994719804,136,88763,105.0
+2028,Saving Private Ryan (1998),Action|Drama|War,0.5527749606969639,138,120815,857.0
+380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,0.5522504601876106,139,111503,36955.0
+592,Batman (1989),Action|Crime|Thriller,0.5472073105499854,146,96895,268.0
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,0.547095907940174,154,114709,862.0
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,0.5447442469078694,143,86190,1892.0
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,0.538544219731307,164,76759,11.0
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,0.538429719751334,148,80684,1891.0
+1704,Good Will Hunting (1997),Drama|Romance,0.5382459721075022,114,119217,489.0
+780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller,0.5335418356356609,148,116629,602.0
+1580,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi,0.5332690393875659,134,119654,607.0
+7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,0.530180978018573,140,167260,122.0
+367,"Mask, The (1994)",Action|Comedy|Crime|Fantasy,0.5243876771855531,127,110475,854.0
+2858,American Beauty (1999),Drama|Romance,0.5236720927424054,144,169547,14.0
+1265,Groundhog Day (1993),Comedy|Fantasy|Romance,0.5225177038561921,120,107048,137.0
+6377,Finding Nemo (2003),Adventure|Animation|Children|Comedy,0.5195016059185859,118,266543,12.0
+4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,0.5181549234029093,128,126029,808.0
+586,Home Alone (1990),Children|Comedy,0.5144140844747294,104,99785,771.0
+344,Ace Ventura: Pet Detective (1994),Comedy,0.5136607198216028,127,109040,3049.0
+587,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller,0.5060803355788541,102,99653,251.0
+595,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX,0.5055783312519831,116,101414,10020.0
+539,Sleepless in Seattle (1993),Comedy|Drama|Romance,0.5032137642194512,97,108160,858.0
+10,GoldenEye (1995),Action|Adventure|Thriller,0.5008603888895445,109,113189,710.0
+165,Die Hard: With a Vengeance (1995),Action|Crime|Thriller,0.500742310339823,115,112864,1572.0
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,0.49981688954077785,138,120737,120.0
+3578,Gladiator (2000),Action|Adventure|Drama,0.49932025847194345,126,172495,98.0
+5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,0.49698778286514267,134,167261,121.0
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy,0.4957480650954364,119,325980,22.0
+3147,"Green Mile, The (1999)",Crime|Drama,0.4955203403092683,95,120689,497.0
+5989,Catch Me If You Can (2002),Crime|Drama,0.4893613546023038,97,264464,640.0
