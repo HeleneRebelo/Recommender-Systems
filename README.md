@@ -48,6 +48,9 @@ The dataset contains around 9742 films. To find out more read: [README.txt](http
 5. We saved the three resulting recommendation datasets and exported them to our streamlit app which you can see below and in the presentation.
 
    ![WBSFLIX](https://github.com/HeleneRebelo/Recommender-Systems/blob/main/docs/wbsflix_image.png)
+
+### This project was made possible by the collaborative efforts of our team:
+Me, Dante Lertora and [Sweta Bhattarai](https://github.com/SwetaBhattarai)
    
 
 
