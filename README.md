@@ -21,7 +21,7 @@ A customer said she wants to put her DVD store online. And you thought all DVD s
 
 1. Develop three recommendation systems based on Popularity, User-based and Item-based.
 
-2. Make these recommenders easily available in a streamlit application that shows film posters, with summary, trailer, and links to [The Movie Database](https://www.themoviedb.org/) page.
+2. Make these recommenders easily available in a streamlit application that shows film posters, with summary, trailer, and links to [tmdb](https://www.themoviedb.org/) page.
 
 ## Challenge
 
