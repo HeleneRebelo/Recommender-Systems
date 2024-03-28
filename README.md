@@ -5,10 +5,10 @@ There are several types of recommenders as can be seen in the diagram below:
 
 Here we explore:
 
-- **Popularity Rankings or popularity-based **: These are non-personalized recommendations based on popularity rankings, such as best-selling items or most-watched movies. These simplified recommendations may not necessarily reflect quality, as the best-selling item may not be the highest-rated. Additionally, rankings can vary over time, making it important to note recent trends.
+- **Popularity Rankings or popularity-based**: These are non-personalized recommendations based on popularity rankings, such as best-selling items or most-watched movies. These simplified recommendations may not necessarily reflect quality, as the best-selling item may not be the highest-rated. Additionally, rankings can vary over time, making it important to note recent trends.
 
 - **Memory-based filtering**:
-- 
+
 This approach is called memory-based because it requires the whole user-item matrix to be retained in the memory of the computer that is providing the recommendations. As we said, this matrix can be huge (humongous!), so this is not a trivial assumption.
 
   - **User-based**: is a collaborative filtering that analyzes similarities between users' preferences to make recommendations. By comparing their evaluations of items, such as movies, algorithms determine similar user-profiles and suggest items enjoyed by users with similar tastes. This method relies on similarity metrics like cosine similarity or Pearson correlation and recommends items based on patterns of similar users, enabling personalized suggestions for individual users.
