@@ -31,7 +31,7 @@ Create recommendation systems that provide WBSFLIX users with relevant content t
 
 ## Folder Structure
 
-/docs: This directory contains the final presentation for the project.
+/docs: This directory contains the final presentation for the project and some images.
 
 /src: Inside this folder, you will find the Notebook with the codes.
 
